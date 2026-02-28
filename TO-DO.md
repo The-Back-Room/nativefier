@@ -6,3 +6,4 @@ A list of planned features and updates for nativefier. This list is not at all a
 - **Discord RPC Support**: Add optional flag for discord rich presence support.
 - **Dedicated Website and/or App**: Package the service into it's own dedicated website and/or app to allow simpler use without needing to run it directly in command line.
 - **App Icons Repo**: Reimplement the official icons repo for apps and ensure nativefier pulls from our implementation. *(I would like to add a scraper to the that repo as well to scrape the official sources for new icons occasionally in order to keep all icons properly up to date.)*
+- **Use Tauri API**: Swap from pure electron to Tauri Apps for more support and a generally better framework.
