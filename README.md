@@ -34,6 +34,11 @@ Whatsapp Web ([HN thread](https://news.ycombinator.com/item?id=10930718)). Nativ
 
 ## Installation
 
+> [!IMPORTANT]
+> These instructions will change once we get our planned updates implemented. For now they use the old method from the original repo found [here](https://github.com/nativefier/nativefier).
+>
+> Note that the old repo is archived due to the maintainer discontiuing it in favor of WPA apps. Our plan is to revive nativefier for those who simply don't like WPA apps or want something a little better.
+
 Install Nativefier globally with `npm install -g nativefier` . Requirements:
 
 - macOS 10.13+ / Windows / Linux
