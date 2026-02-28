@@ -55,8 +55,6 @@ Optional dependencies:
   <summary>Or install with Docker (click to expand)</summary>
 
   - Pull the image from [Docker Hub](https://hub.docker.com/r/nativefier/nativefier): `docker pull nativefier/nativefier`
-  - ... or build it yourself: `docker build -t local/nativefier .`
-    (in this case, replace `nativefier/` in the below examples with `local/`)
 
   By default, `nativefier --help` will be executed.
   To build e.g. a Gmail app into `~/nativefier-apps`,
@@ -96,7 +94,7 @@ to learn about command-line flags and configure your app.
 
 **See [CATALOG.md](CATALOG.md) for site-specific ideas & workarounds contributed by the community**.
 
-If this doesn’t help, go look at our [issue tracker](https://github.com/nativefier/nativefier/issues).
+If this doesn’t help, go look at our [issue tracker](https://github.com/The-Back-Room/nativefier/issues).
 
 ## Development
 
