@@ -98,8 +98,8 @@ If this doesn’t help, go look at our [issue tracker](https://github.com/The-Ba
 
 ## Development
 
-Help welcome on [bugs](https://github.com/nativefier/nativefier/issues?q=is%3Aopen+is%3Aissue+label%3Abug) and
-[feature requests](https://github.com/nativefier/nativefier/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request)!
+Help welcome on [bugs](https://github.com/The-Back-Room/nativefier/issues?q=is%3Aopen+is%3Aissue+label%3Abug) and
+[feature requests](https://github.com/The-Back-Room/nativefier/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request)!
 
 Docs: [Developer / build / hacking](HACKING.md), [API / flags](API.md),
 [Changelog](CHANGELOG.md).
