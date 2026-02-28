@@ -1,4 +1,6 @@
-Note: Nativefier is unmaintained, please see https://github.com/nativefier/nativefier/issues/1577.
+> [!NOTE] Note: Nativefier is unmaintained. This repo is designed to be a rebirth of the software. For now it works as it is, but we will be attempting to revamp it in the future as we study the code and learn how to properly update and continue it. Anyone interested in helping maintain this repo is more than welcome.
+> 
+> You can see a list of planned feature updates in our [TO-DO](TO_DO.md) page.
 
 # Nativefier
 
